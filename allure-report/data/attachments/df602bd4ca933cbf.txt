@@ -1,0 +1,13 @@
+{
+  "status": 201,
+  "body": {
+    "success": true,
+    "status": 201,
+    "message": "User account created successfully",
+    "data": {
+      "id": "68e260ab06ff22028beb4cea",
+      "name": "name",
+      "email": "1759666346.844user@mail.com"
+    }
+  }
+}

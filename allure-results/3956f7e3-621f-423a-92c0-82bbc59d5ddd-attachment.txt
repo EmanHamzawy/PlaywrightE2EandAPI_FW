@@ -1,0 +1,11 @@
+{
+  success: true,
+  status: 200,
+  message: 'Login successful',
+  data: {
+    id: '68e1e4bb06ff22028beb3f5d',
+    name: 'userName',
+    email: 'test223221@mail.com',
+    token: '5265177ea4c14a81a05f273fe917ec40dc56a20f4b12426489018e0820bf464e'
+  }
+}

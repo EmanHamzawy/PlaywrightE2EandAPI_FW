@@ -1,0 +1,20 @@
+{
+  "validLogin": {
+    "userName": "test223221@mail.com",
+    "password": "Password"
+  },
+  "register": {
+    "name": "name",
+    "email": "user@mail.com",
+    "password": "password"
+  },
+  "invalidRegister": {
+    "name": "name",
+    "email": "user",
+    "password": "password"
+  },
+  "changePwd": {
+    "currentPassword": "Password",
+    "newPassword": "Password2321"
+  }
+}

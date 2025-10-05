@@ -1,0 +1,25 @@
+{
+  "createNote": {
+    "validNote": {
+      "title": "note1",
+      "desc": "description",
+      "category": "Work"
+    },
+    "invalidNote": {
+      "title": "note1",
+      "desc": "description",
+      "invalidCategory": "School"
+    }
+  },
+  "updateNote": {
+    "valid": {
+      "title": "note1",
+      "desc": "description",
+      "completed": true,
+      "category": "Work"
+    }
+  },
+  "deleteNote": {
+    "invalidId": "qqqq"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "appUrl": "https://e-commerce-kib.netlify.app/",
+  "validData": {
+    "title": "product Title 3",
+    "description": "product description nnnnnnnnnn",
+    "price": "90"
+  },
+  "invalidData": {
+
+  },
+  "search": {
+    "keyword": "title"
+  }
+}

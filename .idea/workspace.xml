@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b81eb89e-d636-47d9-a9f0-76726ada9742" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiFeatures/notes.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiFeatures/user.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fixtures/apiFixture.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helpers/FlutterEnableAccessibility.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/AngularFlutterAppPages/AngularFlutterPage.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/AngularFlutterAppPages/PageBase.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/FreshnesAppPages/AddProductPage.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/FreshnesAppPages/DashboardPage.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/FreshnesAppPages/PageBase.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testData/API/note.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testData/API/urlData.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testData/API/user.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testData/E2E/productData.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/API/RegisterNewUser.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/API/notes.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/API/user.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/E2E/AngularFlutterApp/AngularFlutter.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/E2E/FreshnesApp/AddProdutTest.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/E2E/FreshnesApp/SearchProductTest.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/APIClient.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="33X8QzzvI9OjgoOIspWLCDyImCV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JavaScript Debug.localhost:9323.executor&quot;: &quot;Debug&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Playwright.registerNewUser.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/khalidamin/eman/QATask/pages/FreshnesAppPages&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;http.proxy&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Users/khalidamin/eman/QATask/node_modules/typescript/lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pages/FreshnesAppPages" />
+      <recent name="$PROJECT_DIR$/pages" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/testData/E2E" />
+      <recent name="$PROJECT_DIR$/testData/API" />
+      <recent name="$PROJECT_DIR$/testData" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Playwright.registerNewUser">
+    <configuration name="registerNewUser" type="JavaScriptTestRunnerPlaywright" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <playwright-package value="$PROJECT_DIR$/node_modules/@playwright/test" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/tests/API/RegisterNewUser.spec.ts" />
+      <test-names>
+        <test-name value="registerNewUser" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="localhost:9323" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:9323">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Playwright.registerNewUser" />
+        <item itemvalue="JavaScript Debug.localhost:9323" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-WS-252.23892.411" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b81eb89e-d636-47d9-a9f0-76726ada9742" name="Changes" comment="" />
+      <created>1759452045195</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1759452045195</updated>
+      <workItem from="1759452046257" duration="66915000" />
+      <workItem from="1759660544832" duration="5691000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,0 +1,15 @@
+{
+  "baseURL": "https://practice.expandtesting.com/notes/api",
+  "path": {
+    "user": {
+      "register": "/users/register",
+      "login": "/users/login",
+      "changePass": "/users/change-password"
+    },
+    "notes": {
+      "createNote": "/notes",
+      "updateNote": "/notes/",
+      "deleteNote": "/notes/"
+    }
+  }
+}

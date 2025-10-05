@@ -1,0 +1,8 @@
+{
+  "status": 400,
+  "body": {
+    "success": false,
+    "status": 400,
+    "message": "A valid email address is required"
+  }
+}
