@@ -48,7 +48,7 @@ export default defineConfig({
         ignoreHTTPSErrors: true,
         /* Base URL to use in actions like `await page.goto('')`. */
         // baseURL: 'http://localhost:3000',
-        headless: true,
+        headless: false,
         /* Collect trace when retrying the failed test. See https://playwright.dev/docs/trace-viewer */
         trace: 'on-first-retry',
         screenshot: 'on'
@@ -59,7 +59,7 @@ export default defineConfig({
         name: 'API',
         testDir: './tests/API',
         use: {
-            browserName: "chromium",
+            browserName: undefined,
         },
     },
         {
@@ -67,7 +67,7 @@ export default defineConfig({
             testDir: './tests/E2E',
             fullyParallel: false,
             use: {
-                ...devices['Desktop Chrome'],
+                browserName: "chromium",
                 headless: false
             },
         },
