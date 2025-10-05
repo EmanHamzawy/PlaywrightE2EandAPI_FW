@@ -3,7 +3,7 @@ name: playwright tests
 on:
   push:
    branches:
-    - main
+    - master
 jobs:
   tests:
     runs-on: ubuntu-latest
