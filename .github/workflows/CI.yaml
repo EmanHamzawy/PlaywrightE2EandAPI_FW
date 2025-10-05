@@ -24,7 +24,7 @@ jobs:
         run: npx playwright test --reporter=list
 
       - name: Generate HTML report
-      - run: npx playwright show-report
+        run: npx playwright show-report
 
       - name: Generate Allure report
         run:  npx allure generate allure-results --clean && npx allure open
